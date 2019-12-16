@@ -1,0 +1,4 @@
+E:\Escritorio\Actividad_proyecto\Entidades\bin\Release\Entidades.dll
+E:\Escritorio\Actividad_proyecto\Entidades\bin\Release\Entidades.pdb
+E:\Escritorio\Actividad_proyecto\Entidades\obj\Release\Entidades.dll
+E:\Escritorio\Actividad_proyecto\Entidades\obj\Release\Entidades.pdb

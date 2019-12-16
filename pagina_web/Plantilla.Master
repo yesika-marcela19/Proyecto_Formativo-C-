@@ -1,0 +1,290 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Plantilla.master.cs" Inherits="pagina_web.Plantilla" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta name="description" content=""/>
+    <meta name="author" content=""/>
+
+    <title>Startmin - Bootstrap Admin Theme</title>
+
+    <!-- Bootstrap Core CSS -->
+     <!--<link href="css/bootstrap.min.css" rel="stylesheet">-->
+
+     <link href="Content/bootstrap.css" rel="stylesheet"/>
+
+    <!-- MetisMenu CSS -->
+    <link href="css/metisMenu.min.css" rel="stylesheet"/>
+
+    <!-- Timeline CSS -->
+    <link href="css/timeline.css" rel="stylesheet"/>
+
+    <!-- Custom CSS -->
+    <link href="css/startmin.css" rel="stylesheet"/>
+
+    <!-- Morris Charts CSS -->
+    <link href="css/morris.css" rel="stylesheet"/>
+
+    <!-- Custom Fonts -->
+    <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+
+    <!--<link href= "maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css" />
+
+     <link href = "maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js" />-->
+
+
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="wrapper">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+        <div class="navbar-header">
+            <a class="navbar-brand" href="#"> Piscicultura </a>
+        </div>
+
+
+        <!-- Top Navigation: Left Menu -->
+     
+
+        <!-- Top Navigation: Right Menu -->
+        <ul class="nav navbar-right navbar-top-links">
+            <li class="dropdown navbar-default">
+                <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                    <i class="fa fa-bell fa-fw"></i> <b class="caret"></b>
+                </a>
+                 <ul class="dropdown-menu dropdown-alerts">
+                    <li>
+                        <div id="msg"></div>
+                    </li>
+                    <li class="divider"></li>
+                    <li>
+                        <a class="text-center" href="#">
+                            <strong>Todas las Notificaciones</strong>
+                            <i class="fa fa-angle-right"></i>
+                        </a>
+                    </li>
+                </ul>
+            </li>
+            <li class="dropdown">
+                <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                    <i class="fa fa-user fa-fw"></i> <asp:Label ID="id_usuario" runat="server" Text="Label"></asp:Label> <b class="caret"></b>
+                </a>
+                <ul class="dropdown-menu dropdown-user">
+                    <li><a href="#"><i class="fa fa-user fa-fw"></i> User Profile</a>
+                    </li>
+                    <li><a href="#"><i class="fa fa-gear fa-fw"></i> Settings</a>
+                    </li>
+                    <li class="divider"></li>
+                    <li>    
+                        <asp:LinkButton ID="button" runat="server" OnClick="button_Click">Salir</asp:LinkButton> 
+                    </li>
+                </ul>
+            </li>
+        </ul>
+
+        <!-- Sidebar -->
+        <div class="navbar-default sidebar" role="navigation">
+            <div class="sidebar-nav ">
+
+                <ul class="nav" id="side-menu">
+                    <li class="sidebar-search">
+                        <div class="input-group custom-search-form">
+                            <input type="text" class="form-control" placeholder="Buscar" />
+                                <span class="input-group-btn">
+                                    <button class="btn btn-buscar" type="button">
+                                        <i class="fa fa-search"></i>
+                                    </button>
+                                </span>
+                        </div>
+                    </li>
+                    <li>
+                        <a href="Principal.aspx" class="active"><i class="fa fa-dashboard fa-fw"></i> Inicio </a>
+                    </li>
+                    <li>
+                        <a href="#" class="active"><i class="fa fa-sitemap fa-fw"></i> Bitacora <span class="fa arrow"></span></a>
+                        <ul class="nav nav-second-level">
+                            <li class="lote">
+                                <a href="Alimentacion.aspx"> Alimentación</a>
+                            </li>                         
+                             <li class="lote">
+                                <a href="Mortalidad.aspx"> Mortalidad </a>
+                            </li>
+                            <li class="lote">
+                                <a href="Produccion.aspx"> Producción </a>
+                            </li>
+                             <li class="lote">
+                                <a href="Rotacion.aspx"> Rotación </a>
+                            </li>
+                             <li class="lote">
+                                <a href="Muestreo.aspx"> Muestreo </a>
+                            </li>
+                            <li class="lote">
+                                <a href="Pesca.aspx"> Pesca </a>
+                            </li>
+
+                        </ul>
+                    </li>
+
+                     <li>
+                        <a  href="#" class="active"><i class="fa fa-file-text-o"></i> Reportes <span class="fa arrow"></span></a>
+                        <ul class="nav nav-second-level">
+                            <li class="lote">
+                                <a href="Consu_Alimentacion.aspx"> Alimentación </a>
+                            </li> 
+                            <li class="lote">
+                                <a href="Consu_Mortalidad.aspx"> Mortalidad </a>
+                            </li>
+                            <li class="lote">
+                                <a href="Consu_Produccion.aspx"> Producción </a>
+                            </li> 
+                            <li class="lote">
+                                <a href="Consu_Rotacion.aspx"> Rotación </a>
+                            </li> 
+                            <li class="lote">
+                                <a href="Consu_Muestreo.aspx"> Muestreo </a>
+                            </li> 
+                            <li class="lote">
+                                <a href="Consu_Pesca.aspx"> Pesca </a>
+                            </li>
+                            <li class="lote">
+                                <a href="Consu_Lotes.aspx" > Lotes </a>
+                            </li>  
+                        </ul>
+                    </li>
+
+                    <li>
+                        <a  href="#" class="active"><i class="fa fa-cogs"></i> Administrar <span class="fa arrow"></span></a>
+                        <ul class="nav nav-second-level">
+                            <li class="lote">
+                                <a href="Consu_Administrador.aspx"> Administrador </a>
+                            </li> 
+                            <li class="lote">
+                                <a href="Consu_Operario.aspx"> Operario </a>
+                            </li> 
+                            <li class="lote">
+                                <a href="Consu_Inactivo.aspx"> Inactivos </a>
+                            </li> 
+ 
+                        </ul>
+                    </li>
+                    <li>
+                        <a  href="#" class="active"><i class=" fa fa-pencil-square-o"></i> Registrar <span class="fa arrow"></span></a>
+                        <ul class="nav nav-second-level">
+                            <li class="lote">
+                                <a href="Registro_Ciclo_Vida.aspx"> Ciclo de vida </a>
+                            </li> 
+                            <li class="lote">
+                                <a href="Registro_Administrador.aspx"> Administrador </a>
+                            </li> 
+                            <li class="lote">
+                                <a href="Registro_Operario.aspx"> Operario </a>
+                            </li> 
+                            <li class="lote">
+                                <a href="Registro_Bateria.aspx"> Bateria </a>
+                            </li> 
+
+                            <li class="lote">
+                                <a href="Registro_Lote.aspx"> Lote </a>
+                            </li> 
+ 
+                        </ul>
+                    </li>
+                    <li>
+                        <a  href="#" class="active"><i class="fa  fa-plus-circle"></i> Estanque <span class="fa arrow"></span></a>
+                        <ul class="nav nav-second-level">
+                            <li class="lote">
+                                <a href="Estado_Activo_Estanque.aspx"> Activos </a>
+                            </li> 
+                             <li class="lote">
+                                <a href="Estado_Inactivo_Estanque.aspx"> Inactivos </a>
+                            </li> 
+                            <li class="lote">
+                                <a href="Registro_estanque.aspx"> Agregar </a>
+                            </li> 
+                       </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Page Content -->
+    <div id="page-wrapper">
+        <div class="container-fluid">
+
+            <div class="row">
+                <div class="col-lg-12">
+                    <br /> 
+                    <br />
+                       <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+                       </asp:ContentPlaceHolder>
+                </div>
+            </div>
+
+            <!-- ... Your content goes here ... -->
+
+        </div>
+    </div>
+
+</div>
+    </form>
+
+ <script src="js/jquery.min.js"></script>
+
+    <script type="text/javascript">
+
+      
+        setInterval('Mostrar_notificacion()',2000)
+        
+        function Mostrar_notificacion() {
+            
+            $.ajax({
+                type: "POST",
+                url: 'Principal.aspx/Mostrar_notificacion',
+                contentType: "application/json; charset=utf-8",
+                data: "{}",
+                dataType: "json",
+                async: false,
+                success: function (resp) {
+                    console.log(resp);
+              
+                    var dato = resp.d;
+                    var html = "";
+                    $.each(dato, function (Pricipal, val) {
+
+                        html += "<li> "+val.tipo+" Lote =" + val.lote + " cantidad=" + val.cantidad + " nomb:" + val.descripcion + "</li>";
+                    });
+                    $("#msg").html(html);
+
+                }, error: function () {
+                    alert("error");
+                }
+            });
+        }
+    </script>
+
+
+
+<!-- Bootstrap Core JavaScript -->
+<script src="js/bootstrap.min.js"></script>
+
+<!-- Metis Menu Plugin JavaScript -->
+<script src="js/metisMenu.min.js"></script>
+
+<!-- Custom Theme JavaScript -->
+<script src="js/startmin.js"></script>
+
+   
+</body>
+</html>

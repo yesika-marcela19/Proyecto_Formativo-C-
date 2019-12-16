@@ -1,0 +1,10 @@
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\Entidades\bin\Debug\Entidades.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\Entidades\bin\Debug\Entidades.pdb
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\Entidades\obj\Debug\Entidades.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\Entidades\obj\Debug\Entidades.pdb
+E:\Escritorio\Actividad_proyecto\Entidades\bin\Debug\Entidades.dll
+E:\Escritorio\Actividad_proyecto\Entidades\bin\Debug\Entidades.pdb
+E:\Escritorio\Actividad_proyecto\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+E:\Escritorio\Actividad_proyecto\Entidades\obj\Debug\Entidades.dll
+E:\Escritorio\Actividad_proyecto\Entidades\obj\Debug\Entidades.pdb

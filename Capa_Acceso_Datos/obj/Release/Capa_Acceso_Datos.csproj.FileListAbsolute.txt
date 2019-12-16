@@ -1,0 +1,9 @@
+E:\Escritorio\Actividad_proyecto\Capa_Acceso_Datos\bin\Release\Capa_Acceso_Datos.dll.config
+E:\Escritorio\Actividad_proyecto\Capa_Acceso_Datos\bin\Release\Capa_Acceso_Datos.dll
+E:\Escritorio\Actividad_proyecto\Capa_Acceso_Datos\bin\Release\Capa_Acceso_Datos.pdb
+E:\Escritorio\Actividad_proyecto\Capa_Acceso_Datos\bin\Release\Entidades.dll
+E:\Escritorio\Actividad_proyecto\Capa_Acceso_Datos\bin\Release\MySql.Data.dll
+E:\Escritorio\Actividad_proyecto\Capa_Acceso_Datos\bin\Release\Entidades.pdb
+E:\Escritorio\Actividad_proyecto\Capa_Acceso_Datos\obj\Release\Capa_Acceso_Datos.csprojResolveAssemblyReference.cache
+E:\Escritorio\Actividad_proyecto\Capa_Acceso_Datos\obj\Release\Capa_Acceso_Datos.dll
+E:\Escritorio\Actividad_proyecto\Capa_Acceso_Datos\obj\Release\Capa_Acceso_Datos.pdb

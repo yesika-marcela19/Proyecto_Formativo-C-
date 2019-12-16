@@ -1,0 +1,18 @@
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\Capa_Acceso_Datos\bin\Debug\Capa_Acceso_Datos.dll.config
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\Capa_Acceso_Datos\bin\Debug\Capa_Acceso_Datos.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\Capa_Acceso_Datos\bin\Debug\Capa_Acceso_Datos.pdb
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\Capa_Acceso_Datos\bin\Debug\MySql.Data.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\Capa_Acceso_Datos\obj\Debug\Capa_Acceso_Datos.csprojResolveAssemblyReference.cache
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\Capa_Acceso_Datos\obj\Debug\Capa_Acceso_Datos.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\Capa_Acceso_Datos\obj\Debug\Capa_Acceso_Datos.pdb
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\Capa_Acceso_Datos\bin\Debug\Entidades.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\Capa_Acceso_Datos\bin\Debug\Entidades.pdb
+E:\Escritorio\Actividad_proyecto\Capa_Acceso_Datos\bin\Debug\Capa_Acceso_Datos.dll.config
+E:\Escritorio\Actividad_proyecto\Capa_Acceso_Datos\bin\Debug\Capa_Acceso_Datos.dll
+E:\Escritorio\Actividad_proyecto\Capa_Acceso_Datos\bin\Debug\Capa_Acceso_Datos.pdb
+E:\Escritorio\Actividad_proyecto\Capa_Acceso_Datos\bin\Debug\Entidades.dll
+E:\Escritorio\Actividad_proyecto\Capa_Acceso_Datos\bin\Debug\MySql.Data.dll
+E:\Escritorio\Actividad_proyecto\Capa_Acceso_Datos\bin\Debug\Entidades.pdb
+E:\Escritorio\Actividad_proyecto\Capa_Acceso_Datos\obj\Debug\Capa_Acceso_Datos.csprojResolveAssemblyReference.cache
+E:\Escritorio\Actividad_proyecto\Capa_Acceso_Datos\obj\Debug\Capa_Acceso_Datos.dll
+E:\Escritorio\Actividad_proyecto\Capa_Acceso_Datos\obj\Debug\Capa_Acceso_Datos.pdb

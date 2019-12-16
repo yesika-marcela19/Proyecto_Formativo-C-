@@ -1,0 +1,186 @@
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\roslyn\csc.exe
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\roslyn\System.Collections.Immutable.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\roslyn\System.Reflection.Metadata.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\roslyn\vbc.exe
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\roslyn\VBCSCompiler.exe
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\roslyn\VBCSCompiler.exe.config
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\pagina_web.dll.config
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\pagina_web.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\pagina_web.pdb
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\Antlr3.Runtime.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\AspNet.ScriptManager.jQuery.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\Capa_Acceso_Datos.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\Entidades.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\EntityFramework.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\EntityFramework.SqlServer.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\Microsoft.Owin.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\Microsoft.Owin.Security.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\Microsoft.Owin.Security.Google.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\Microsoft.Web.Infrastructure.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\Newtonsoft.Json.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\Owin.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\System.Web.Optimization.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\System.Web.Providers.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\WebGrease.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\MySql.Data.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\Capa_Acceso_Datos.pdb
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\Entidades.pdb
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\System.Web.Optimization.xml
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\Antlr3.Runtime.pdb
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\Newtonsoft.Json.xml
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\EntityFramework.xml
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\EntityFramework.SqlServer.xml
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\System.Web.Providers.xml
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\Microsoft.Owin.xml
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\Microsoft.Owin.Security.xml
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\Microsoft.Owin.Security.Google.xml
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\es\System.Web.Optimization.resources.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\es\EntityFramework.resources.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\es\EntityFramework.SqlServer.resources.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\es\Microsoft.Owin.resources.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\es\Microsoft.Owin.Security.resources.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\es\Microsoft.Owin.Security.Google.resources.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\obj\Debug\pagina_web.csprojResolveAssemblyReference.cache
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\obj\Debug\pagina_web.dll
+E:\Escritorio\ejercicios clase en c#\Actividad_proyecto\pagina_web\obj\Debug\pagina_web.pdb
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\roslyn\csc.exe
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\roslyn\System.Collections.Immutable.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\roslyn\System.Reflection.Metadata.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\roslyn\vbc.exe
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\roslyn\VBCSCompiler.exe
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\roslyn\VBCSCompiler.exe.config
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\pagina_web.dll.config
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\pagina_web.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\pagina_web.pdb
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\Antlr3.Runtime.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\AspNet.ScriptManager.jQuery.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\Capa_Acceso_Datos.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\Entidades.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\EntityFramework.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\EntityFramework.SqlServer.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\Microsoft.Owin.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\Microsoft.Owin.Security.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\Microsoft.Owin.Security.Google.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\Microsoft.Web.Infrastructure.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\Newtonsoft.Json.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\Owin.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\System.Web.Optimization.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\System.Web.Providers.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\WebGrease.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\MySql.Data.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\Capa_Acceso_Datos.pdb
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\Entidades.pdb
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\System.Web.Optimization.xml
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\Antlr3.Runtime.pdb
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\Newtonsoft.Json.xml
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\EntityFramework.xml
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\EntityFramework.SqlServer.xml
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\System.Web.Providers.xml
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\Microsoft.Owin.xml
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\Microsoft.Owin.Security.xml
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\Microsoft.Owin.Security.Google.xml
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\es\System.Web.Optimization.resources.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\es\EntityFramework.resources.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\es\EntityFramework.SqlServer.resources.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\es\Microsoft.Owin.resources.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\es\Microsoft.Owin.Security.resources.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\es\Microsoft.Owin.Security.Google.resources.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\obj\Debug\pagina_web.csprojResolveAssemblyReference.cache
+E:\Escritorio\Actividad_proyecto\pagina_web\obj\Debug\pagina_web.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\obj\Debug\pagina_web.pdb
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\CrystalDecisions.CrystalReports.Engine.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\CrystalDecisions.ReportSource.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\CrystalDecisions.Shared.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Escritorio\Actividad_proyecto\pagina_web\bin\stdole.dll
